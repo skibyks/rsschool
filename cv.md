@@ -108,7 +108,7 @@ I don't have any commercial expeience.
   - Web application development in JavaScript
 - IT-Academy (online-course):
   - Web application development in HTML / CSS / JavaScript
-- БНТУ :
+- BNTU :
   - Faculty:
     - Energetic
   - Specialization:
@@ -123,5 +123,4 @@ I don't have any commercial expeience.
   - A1
 
 - Russin:
-
-* native
+  - native
