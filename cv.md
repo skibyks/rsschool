@@ -2,7 +2,8 @@
 
 ## Contacts for communication
 
-+375(29)395-43-13
+_phone_ : +375(29)395-43-13
+_Telegram_ : @Alexey_ivanov_1995
 
 ## About me :
 
